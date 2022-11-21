@@ -3,6 +3,8 @@
 
 ![Homepage-2](https://user-images.githubusercontent.com/112838805/202644222-ba884044-acc5-48ef-8983-2ce6dddcc861.jpg)
 
-*It uses tailwindcss to design the homepage
+* Delicious and easy recipe for student to cook!
 
-*Access the page here: https://delicious-food.onrender.com/
+* It uses tailwindcss to design the homepage
+
+* Access the page here: https://delicious-food.onrender.com/
